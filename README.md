@@ -39,7 +39,9 @@ Using a prompt from this collection is straightforward. The main goal is to copy
 4.  **Find Custom Instructions:** Look for the field designated for custom instructions. Typically, there is a global field ("Custom Instructions for All Modes") and specific fields for each mode (`code`, `orchestrator`, etc.).
 5.  **Paste the Prompt:** Paste the copied content into the desired instructions field. For universal behavior like the "Metacognitive Architect," paste it into the global field.
 
-    ![RooCode Settings Example](https://i.imgur.com/your-image-here.png)  6.  **Save and Test:** Save the settings. From your next interaction, the AI agent will adopt the new persona and follow the prompt's directives. Test it with a complex task to see the new behavior in action.
+    ![RooCode Settings Example](https://github.com/user-attachments/assets/08a65666-0a4e-43d1-a4f4-08a2917e7f4d)
+
+6.  **Save and Test:** Save the settings. From your next interaction, the AI agent will adopt the new persona and follow the prompt's directives. Test it with a complex task to see the new behavior in action.
 
 ---
 
@@ -47,7 +49,7 @@ Using a prompt from this collection is straightforward. The main goal is to copy
 
 | Prompt Name                               | Description                                                                                                                                                                                                | File Path                                                                     |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| **Metacognitive Architect (v9.0)** | Transforms the AI into a schema-driven, autonomous playbook executor, ideal for complex state management and data migration tasks. Uses `context-portal` as its central memory. | [`prompts/metacognitive_architect_v9.yml`](./prompts/metacognitive_architect_v9.yml) |
+| **Metacognitive Architect (v9.0)** | Transforms the AI into a schema-driven, autonomous playbook executor, ideal for complex state management and data migration tasks. Uses `context-portal` as its central memory. | [`prompts/metacognitive_architect.yml`](./prompts/metacognitive_architect.yml) |
 | *... (Add more prompts here)* | *...* | *...* |
 
 ---
