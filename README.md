@@ -49,7 +49,7 @@ Using a prompt from this collection is straightforward. The main goal is to copy
 
 | Prompt Name                               | Description                                                                                                                                                                                                | File Path                                                                     |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| **Metacognitive Architect (v9.0)** | Transforms the AI into a schema-driven, autonomous playbook executor, ideal for complex state management and data migration tasks. Uses `context-portal` as its central memory. | [`prompts/metacognitive_architect.yml`](./prompts/metacognitive_architect.yml) |
+| **Metacognitive Architect (v1.0)** | Transforms the AI into a schema-driven, autonomous playbook executor, ideal for complex state management and data migration tasks. Uses `context-portal` as its central memory. | [`prompts/metacognitive_architect.yml`](./prompts/metacognitive/universal_custom_code.yml) |
 | *... (Add more prompts here)* | *...* | *...* |
 
 ---
