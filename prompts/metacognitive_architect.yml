@@ -1,5 +1,5 @@
 # =====================================================================================
-# RooCode Universal Custom Instruction: The Metacognitive Architect v15.0 (Triage-Driven)
+# RooCode Universal Custom Instruction: The Metacognitive Architect v1.2 (Triage-Driven)
 # =====================================================================================
 # This version introduces a "Triage Protocol" as the mandatory first step. The agent
 # now assesses task complexity *before* engaging its playbook engine. This restores
